@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://hukisanagi.github.io/sitemap.xml
