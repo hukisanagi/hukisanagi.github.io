@@ -3,4 +3,4 @@
 &lt;p>本サイトは静的サイトジェネレーター Hugo と GitHub Pages を用いて構築されています。&lt;br>
 テーマには &lt;a href="https://github.com/luizdepra/hugo-coder/" class="external-link" target="_blank" rel="noopener">hugo-coder&lt;/a> を採用しました。&lt;/p>
 &lt;p>ソースコードはprivateリポジトリで管理しています。&lt;br>
-コードをプッシュすると、GitHub Actions により自動的にビルドプロセスが実行され、生成された静的ファイルがpublicリポジトリの &lt;a href="https://github.com/hukiSanagi/hukiSanagi.github.io" class="external-link" target="_blank" rel="noopener">hukiSanagi.github.io&lt;/a> にデプロイされる仕組みになっています。&lt;/p></description></item></channel></rss>
+コードをプッシュすると、GitHub Actions により自動的にビルドプロセスが実行され、生成された静的ファイルがpublicリポジトリの &lt;a href="https://github.com/hukisanagi/hukisanagi.github.io" class="external-link" target="_blank" rel="noopener">hukisanagi.github.io&lt;/a> にデプロイされる仕組みになっています。&lt;/p></description></item></channel></rss>

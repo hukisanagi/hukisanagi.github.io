@@ -3,7 +3,7 @@
 &lt;p>本サイトは静的サイトジェネレーター Hugo と GitHub Pages を用いて構築されています。&lt;br>
 テーマには &lt;a href="https://github.com/luizdepra/hugo-coder/" class="external-link" target="_blank" rel="noopener">hugo-coder&lt;/a> を採用しました。&lt;/p>
 &lt;p>ソースコードはprivateリポジトリで管理しています。&lt;br>
-コードをプッシュすると、GitHub Actions により自動的にビルドプロセスが実行され、生成された静的ファイルがpublicリポジトリの &lt;a href="https://github.com/hukiSanagi/hukiSanagi.github.io" class="external-link" target="_blank" rel="noopener">hukiSanagi.github.io&lt;/a> にデプロイされる仕組みになっています。&lt;/p></description></item><item><title>About</title><link>https://hukisanagi.github.io/about/</link><pubDate>Sat, 01 Mar 2025 00:00:00 +0000</pubDate><guid>https://hukisanagi.github.io/about/</guid><description>&lt;h5 id="自己紹介">
+コードをプッシュすると、GitHub Actions により自動的にビルドプロセスが実行され、生成された静的ファイルがpublicリポジトリの &lt;a href="https://github.com/hukisanagi/hukisanagi.github.io" class="external-link" target="_blank" rel="noopener">hukisanagi.github.io&lt;/a> にデプロイされる仕組みになっています。&lt;/p></description></item><item><title>About</title><link>https://hukisanagi.github.io/about/</link><pubDate>Sat, 01 Mar 2025 00:00:00 +0000</pubDate><guid>https://hukisanagi.github.io/about/</guid><description>&lt;h5 id="自己紹介">
  自己紹介:
  &lt;a class="heading-link" href="#%e8%87%aa%e5%b7%b1%e7%b4%b9%e4%bb%8b">
  &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
@@ -28,6 +28,6 @@
 &lt;p>&lt;em>鍛冶の炉とハンマーを抽象的表現は、「与えられた火」の利用による技術発展と、それに伴うリスクを示唆している。
 技術は継承され、共有されることで、単独では成し得ない発展を可能にする。炉から出る光芒は、その無限の可能性を想起させる。&lt;/em>&lt;/p></description></item><item><title>Contact</title><link>https://hukisanagi.github.io/contact/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://hukisanagi.github.io/contact/</guid><description>&lt;p>ご連絡は、下記メールアドレスまたはX (旧Twitter) のDMにてお願いいたします。&lt;/p>
 &lt;ul>
-&lt;li>メールアドレス：&lt;a href="mailto:huki_sanagi-art@outlook.jp" >huki_sanagi-art@outlook.jp&lt;/a>&lt;/li>
-&lt;li>X (旧Twitter)：&lt;a href="https://x.com/Huki_Sanagi" class="external-link" target="_blank" rel="noopener">@Huki_Sanagi&lt;/a>&lt;/li>
+&lt;li>メールアドレス：&lt;a href="mailto:hukisanagi@outlook.jp" >hukisanagi@outlook.jp&lt;/a>&lt;/li>
+&lt;li>X (旧Twitter)：&lt;a href="https://x.com/huki_sanagi" class="external-link" target="_blank" rel="noopener">@huki_sanagi&lt;/a>&lt;/li>
 &lt;/ul></description></item><item><title>Projects</title><link>https://hukisanagi.github.io/projects/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://hukisanagi.github.io/projects/</guid><description>&lt;p>ここには何もない&amp;hellip;。&lt;/p></description></item></channel></rss>
