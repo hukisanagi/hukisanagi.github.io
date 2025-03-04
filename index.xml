@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>huki_sanagi</title><link>https://hukisanagi.github.io/</link><description>Recent content on huki_sanagi</description><generator>Hugo</generator><language>jp</language><lastBuildDate>Sun, 02 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://hukisanagi.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>最初の投稿</title><link>https://hukisanagi.github.io/posts/2025/03/02/first-post/</link><pubDate>Sun, 02 Mar 2025 00:00:00 +0000</pubDate><guid>https://hukisanagi.github.io/posts/2025/03/02/first-post/</guid><description>&lt;p>最初の投稿です。&lt;br>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>huki_sanagi</title><link>https://hukisanagi.github.io/</link><description>Recent content on huki_sanagi</description><generator>Hugo</generator><language>ja</language><lastBuildDate>Sun, 02 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://hukisanagi.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>最初の投稿</title><link>https://hukisanagi.github.io/posts/2025/03/02/first-post/</link><pubDate>Sun, 02 Mar 2025 00:00:00 +0000</pubDate><guid>https://hukisanagi.github.io/posts/2025/03/02/first-post/</guid><description>&lt;p>最初の投稿です。&lt;br>
 ここでは、サイトの構築環境について説明します。&lt;/p>
 &lt;p>本サイトは静的サイトジェネレーター Hugo と GitHub Pages を用いて構築されています。&lt;br>
 テーマには &lt;a href="https://github.com/luizdepra/hugo-coder/" class="external-link" target="_blank" rel="noopener">hugo-coder&lt;/a> を採用しました。&lt;/p>
@@ -6,8 +6,8 @@
 コードをプッシュすると、GitHub Actions により自動的にビルドプロセスが実行され、生成された静的ファイルがpublicリポジトリの &lt;a href="https://github.com/hukisanagi/hukisanagi.github.io" class="external-link" target="_blank" rel="noopener">hukisanagi.github.io&lt;/a> にデプロイされる仕組みになっています。&lt;/p></description></item><item><title>About</title><link>https://hukisanagi.github.io/about/</link><pubDate>Sat, 01 Mar 2025 00:00:00 +0000</pubDate><guid>https://hukisanagi.github.io/about/</guid><description>&lt;h5 id="自己紹介">
  自己紹介:
  &lt;a class="heading-link" href="#%e8%87%aa%e5%b7%b1%e7%b4%b9%e4%bb%8b">
- &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
- &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="見出しへのリンク">&lt;/i>
+ &lt;span class="sr-only">見出しへのリンク&lt;/span>
  &lt;/a>
 &lt;/h5>
 &lt;p>佐薙 歩希です。現在、休養中のエンジニア未満です。&lt;/p>
@@ -18,8 +18,8 @@
 &lt;h5 id="アイコン概要">
  アイコン概要:
  &lt;a class="heading-link" href="#%e3%82%a2%e3%82%a4%e3%82%b3%e3%83%b3%e6%a6%82%e8%a6%81">
- &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
- &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="見出しへのリンク">&lt;/i>
+ &lt;span class="sr-only">見出しへのリンク&lt;/span>
  &lt;/a>
 &lt;/h5>
 &lt;figure class="float-left right-margin">&lt;img src="https://hukisanagi.github.io/images/content/about/logo.png" width="100px" height="100px">
