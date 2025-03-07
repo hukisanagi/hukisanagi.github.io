@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg width="100%" height="100%" viewBox="0 0 1000 1000" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
-    <g id="favicon" transform="matrix(1.42857,0,0,1.42857,-214.286,-214.286)">
+    <g transform="matrix(1.52564,0,0,1.37449,-296.797,-142.168)">
+        <rect x="194.539" y="103.433" width="655.461" height="727.544"/>
+    </g>
+    <g id="favicon" transform="matrix(1.14286,0,0,1.14286,-71.4286,-71.4286)">
         <g>
             <path d="M726.193,503.685L500,351.644L311.407,476.846L248.14,434.112L500,265.02L850,500L739.838,573.96L680.43,534.082L726.193,503.685Z" style="fill:white;"/>
             <path d="M626.16,648.959L500,734.98L150,500L210.518,459.37L500,653.997L566.865,609.385L626.16,648.959Z" style="fill:white;"/>
